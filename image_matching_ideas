@@ -1,0 +1,64 @@
+get the output after pooling layer, and get the similarity from the matrix
+
+remove the background
+face colour 
+
+
+The code in the blog post is aimed at Python 2, where writing to and reading from a file works with bytestrings. In Python 3, you need to open the file in binary mode, both for writing and then reading again
+
+a = [1,2,3,3]
+b = [i for i in a if i!=2]
+b = [0 if i==2 else 99 for i in a]
+
+
+what is thread safe?
+
+137
+260
+
+
+
+
+
+htmlstr = """<html><body><table> 
+            <style>table, th, td {{border: 1px solid black;}} </style>
+            <tr> 
+            <th> Product Name </th>
+            <th align="center" colspan="{}"> {} </th> 
+            </tr>
+            """.format("max_items_row_count", "field_name")
+
+
+
+
+a = "hello"
+
+def f(a):
+	a += " world"
+	return a
+
+
+	https://s3-us-west-1.amazonaws.com/rfk-ml-offline-dev/jobs/similar_items/20190408/15/html/91472513/similar_items.text.html
+
+
+	examine which exact line produces the error
+
+
+
+
+
+
+
+****************************************************************************************************
+training the final layer and then check the vectors
+neural style transfer
+inception followed by t sne
+
+
+clustering 
+ordering the final images using
+color histogram (filtering the body color)
+
+
+
+
